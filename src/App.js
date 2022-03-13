@@ -16,7 +16,7 @@ if (loading) return<p>Loading...</p>;
           <tbody>
             <tr>
               <td>Code</td>
-              <td>Name</td>
+              <td>Country</td>
               <td>Continent</td>
             </tr>
             { data.countries.map((country, index) =>
